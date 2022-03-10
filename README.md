@@ -1,6 +1,9 @@
 # Proxy
 This site has everything you need about proxies!
 
+I just deployed it go GitHub Pages! Please [go here](https://dacuteraccoon.github.io/proxy/)
+<br>
+You can check the status of the builds and deployments [here](https://github.com/DaCuteRaccoon/proxy/actions/workflows/pages/pages-build-deployment).
 <!-- https://sites.google.com/view/emsproksy/ -->
 
 ### Links
